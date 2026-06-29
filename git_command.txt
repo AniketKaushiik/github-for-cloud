@@ -27,3 +27,13 @@
    33  git status
    34  git restore index.html
    35  git status
+   git status
+   38  git add git_command.txt
+   39  git commit -m "Adding file"
+   40  git status
+   41  git remote add origin https://github.com/AniketKaushiik/github-for-cloud.git
+   42  git rempte
+   43  git remote
+   44  git remote -v
+   45  git push origin master
+   46  git push -u origin main
