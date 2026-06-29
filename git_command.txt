@@ -1,0 +1,29 @@
+ git status
+    8  git add index.html
+    9  git status
+   10  git rm --cache
+   11  git rm --chache index.html
+   12  git status
+   13  git rm --cached 
+   14  git rm --cached <index.html>
+   15  git rm --cached index.html
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "adding files"
+   20  git status
+   21  git rm .
+   22  git rm index.html
+   23  git restore index.html
+   24  git status
+   25  git restore index.html
+   26  git restore ./index.html
+   27  pwd
+   28  ls
+   29  git status
+   30  git ls-files
+   31  ls -la
+   32  git restore --staged index.html
+   33  git status
+   34  git restore index.html
+   35  git status
